@@ -10,7 +10,7 @@ To view the details of each project, simply click on one of the folders listed a
 
 Below you will find a table with more info regarding the projects within each folder.: 
 
-#This portion is still in progress :) 
+--This portion is still in progress :) 
 |Folder | Project Name | Description | Tools Used |
 | --- | --- | --- | --- |
 |  |  | | |
