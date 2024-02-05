@@ -1,1 +1,8 @@
-
+SELECT 
+  first_name,
+  last_name
+FROM band_students
+WHERE id IN (
+  SELECT id
+  FROM drama_students
+);
