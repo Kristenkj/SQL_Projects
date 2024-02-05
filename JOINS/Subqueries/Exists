@@ -1,5 +1,0 @@
-SELECT grade
-FROM band_students
-WHERE EXISTS(
-  SELECT grade
-  FROM drama_students);

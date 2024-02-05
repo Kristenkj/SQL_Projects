@@ -1,6 +1,0 @@
-DELETE FROM band_students
-WHERE id IN (
-  SELECT
-  id
-  FROM drama_students
-);
