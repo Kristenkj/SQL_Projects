@@ -1,6 +1,0 @@
-SELECT *
-FROM songs
-UNION
-SELECT*
-FROM bonus_songs
-LIMIT 10;
