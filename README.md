@@ -2,7 +2,7 @@
 This repository contains a list of projects completed during my SQL training. I used various tools while learning the SQL language.
 You will find individual projects in there own folder that I have completed and wished to showcase within their own folders.
 
-Within the 'Query_Basics' folder you will find labs that I have completed within my learning of the Python language to practice and advance my skills.
+Within the 'Query_Basics' folder you will find labs that I have completed within my learning of the SQL language to practice and advance my skills.
 
 ## Getting Started 
 
