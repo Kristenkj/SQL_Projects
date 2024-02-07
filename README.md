@@ -26,7 +26,8 @@ Below you will find a table with more info regarding the projects within each fo
 |  |  | | |
 
 
-## Certificate of Completion
+
+## Certificates of Completion
 [Sololearn SQL Introduction Certificate](https://www.sololearn.com/certificates/CC-YDOWKD9N)
 
 [Sololearn SQL Intermediate Certificate](https://www.sololearn.com/certificates/CC-CH64S290)
